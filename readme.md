@@ -1158,6 +1158,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [MacVirtue](https://naden.co) - Run free and unlimited Virtual Machines on your Mac. ![Dollar][mon]
 - [Mini vMac](https://www.gryphel.com/c/minivmac/) - A miniature early Macintosh emulator. ![Free][free]
 - [MultiPass](https://multipass.run/) - A mini-cloud on your Mac or Windows workstation. ![Free][free]
+- [OrbStack](https://orbstack.dev/) - OrbStack is the fast, light, and easy way to run Docker containers and Linux. ![Free][free] & ![Dollar][mon] ![Star][fav]
 - [Parallels Access](https://www.parallels.com/products/access/) - Remote access to your computer from anywhere. ![Dollar][mon]
 - [Parallels Desktop 17](https://www.parallels.com/products/desktop/) - Run Windows on Mac without rebooting. ![Dollar][mon] ![Star][fav]
 - [Parallels Toolbox](https://www.parallels.com/products/toolbox/) - All-in-one solution with over 30 tools for macOS and Windows 10. ![Dollar][mon]
